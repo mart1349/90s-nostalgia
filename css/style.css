@@ -1,0 +1,54 @@
+html {
+    box-sizing: border-box;
+}
+
+ ::before, ::after {
+   box-sizing: inherit;
+}
+
+Body {
+    font-family: Roboto, sans-serif;
+    color: #222;        
+    line-height: 1.4;
+    font-size: 110%;
+    background-color: white;
+}
+
+Body {
+    margin: 0;
+}
+
+img {
+    width: 100%;
+ }
+
+.logo {
+     width: 160px;
+    display: block;
+    margin: 0 auto;
+}
+
+.wrapper {
+    width: 900px;
+    margin: 0 auto;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    padding-left: 0;
+    padding-left: 0;
+
+}
+
+.header {
+    padding: 1.5rem, 0;
+}
+
+nav ul {
+    list-style-type: none;
+    display: block;
+    padding-left: o;
+    text-align: center;
+}
+
+nav li {
+    
+}
